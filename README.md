@@ -26,4 +26,6 @@
 </div>
 
 </body></html>
-![LacreiSaude-Cypress](https://user-images.githubusercontent.com/64796700/213262762-bcb23d18-3c06-43a7-b134-1dd0fd5bccf4.gif)
+
+![LacreiSaude-Cypress](https://user-images.githubusercontent.com/64796700/213262881-4b369952-418d-4087-9f9c-a3342ae2309a.gif)
+
